@@ -131,5 +131,10 @@
     <ClInclude Include="TitleScene.h" />
     <ClInclude Include="StageScene.h" />
     <ClInclude Include="ClearScene.h" />
+    <ClInclude Include="resource1.h" />
+    <ClInclude Include="Player.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Novice1.rc" />
   </ItemGroup>
 </Project>
